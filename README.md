@@ -18,7 +18,7 @@ Folders Involved -
 
 2. Dataset
 
-	●	This datasets are extracted from the Kaggle database. 
+	   ●	This datasets are extracted from the Kaggle database. 
 
 3. Final Report 
 
